@@ -41,3 +41,10 @@ npm run build # Gera a build final para seu projeto
 
 # Enjoy :)
 ```
+
+Imagens:
+
+![tela1](https://user-images.githubusercontent.com/44671356/152660609-690c491e-0074-4f3c-a8c5-0d305a920233.png)
+![tela2](https://user-images.githubusercontent.com/44671356/152660612-8782471b-e42c-48c4-9025-82bb883efb35.png)
+![tela4](https://user-images.githubusercontent.com/44671356/152660613-cfd3f30f-2579-4339-a3c7-e63ae5e2065e.png)
+![tela5](https://user-images.githubusercontent.com/44671356/152660615-7094a276-9dd5-4d8b-8ddf-c2361ca1790d.png)
