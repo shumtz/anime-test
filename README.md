@@ -42,6 +42,8 @@ npm run build # Gera a build final para seu projeto
 # Enjoy :)
 ```
 
+**Disclaimer: Tela foi feita para se adaptar a todos os dispositivos, porem, fiz me baseando na resolução de 1920x1080**
+
 Imagens:
 
 ![tela1](https://user-images.githubusercontent.com/44671356/152660609-690c491e-0074-4f3c-a8c5-0d305a920233.png)
