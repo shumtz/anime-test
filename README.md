@@ -2,6 +2,8 @@
 
 Vou começar falando sobre o projeto em si, e as escolhas que tive nele.
 
+Deploy na Vercel: https://anime-test-chi.vercel.app/
+
 ### Vite
 
 Primeiro, decidi sair do "tradicional" e resolvi trocar o "compilador" do vue, que utliza o vue-cli e substitui para o vite, você vai me perguntar: "mas tá, porque?", eu respondo, a algum tempo estive de olho no vite e como ele se saia superior em alguns cenarios se comparado com vue-cli (levando em comparação que o vite é de 10 a 100x mais rapido que o webpack), obviamente que ambos tem seus pros e contras, como esse é um projetinho simples que não vai mudar de cenario, e os resultados foram bem agradaveis. [Why Vite?]([asd](https://vitejs.dev/guide/why.html))
