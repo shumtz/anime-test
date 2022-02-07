@@ -2,7 +2,7 @@
   <section class="container">
     <div class="row justify-center q-mb-xl">
       <div class="col-10">
-        <q-input v-model="text" debounce="1000" outlined label="Pesquise seu anime aqui...">
+        <q-input v-model="text" debounce="500" outlined label="Pesquise seu anime aqui...">
           <template v-slot:append>
             <q-icon name="search" />
           </template>
@@ -10,7 +10,7 @@
       </div>
     </div>
     <div class="text-left q-mb-md">
-      <span class="text-body1">Resultado para a palavra: {{ text }}</span>
+      <span class="text-body1 text-capitalize">Resultado para a palavra: {{ text }}</span>
     </div>
   </section>
 </template>
