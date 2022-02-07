@@ -1,7 +1,7 @@
 <template>
   <q-layout view="lhh lpR lff">
     <q-header reveal elevated class="bg-primary text-white row justify-between">
-        <q-toolbar class="col-lg-4 col-sm-12">
+        <q-toolbar class="col-lg-4">
           <q-toolbar-title>
             Anime Friend Search
           </q-toolbar-title>

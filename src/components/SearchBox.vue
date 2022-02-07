@@ -2,7 +2,11 @@
   <section class="container">
     <div class="row justify-center q-mb-xl">
       <div class="col-10">
-        <q-input v-model="text" outlined label="Pesquise seu anime aqui..." />
+        <q-input v-model="text" debounce="1000" outlined label="Pesquise seu anime aqui...">
+          <template v-slot:append>
+            <q-icon name="search" />
+          </template>
+        </q-input>
       </div>
     </div>
     <div class="text-left q-mb-md">

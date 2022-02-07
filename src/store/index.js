@@ -5,7 +5,7 @@ export default createStore({
   state: {
     resultAllAnimes: [],
     resultOneAnime: [],
-    user: []
+    user: [],
   },
   mutations: {
     setAllAnimes(state, anime) {
